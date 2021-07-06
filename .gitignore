@@ -1,0 +1,8 @@
+./wine_label.mat
+./wine_network.mat
+./wine.edgelist
+./representation.pkl
+data
+venv/*
+.idea
+./data/*
